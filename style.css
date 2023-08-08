@@ -316,3 +316,38 @@ i {
 #wordSpotlight{
 	font-size: 23px;
 }
+
+.hintsend{
+	display: none;
+}
+
+@media (max-width: 600px) {
+	.maingrid{
+		display: flex;
+		flex-direction: column;
+		flex-wrap: nowrap;
+	}
+
+	.game{
+		padding-left: inherit;
+	}
+
+	.settings{
+		display: none;
+	}
+
+	.hints{
+		display: none;
+	}
+
+	.hintsend{
+		display: block;
+		margin-top: 5px;
+		font-size: larger;
+	}
+
+	#keyboard{
+		margin-left: 0;
+	}
+
+}

@@ -7,7 +7,7 @@ var Dictionary = [
   "STRETCH",
   "RHYTHM",
   "AWKWARD",
-  "Excited"
+  "EXCITED"
 ]
 
 let answer = '';
