@@ -328,6 +328,10 @@ i {
 		flex-wrap: nowrap;
 	}
 
+	.hangman{
+		margin-left: 10vh;
+	}
+
 	.game{
 		padding-left: inherit;
 	}
@@ -348,6 +352,10 @@ i {
 
 	#keyboard{
 		margin-left: 0;
+	}
+
+	.hintsimage{
+		margin-left: inherit;
 	}
 
 }
