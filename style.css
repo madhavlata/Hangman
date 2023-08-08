@@ -237,7 +237,7 @@ i {
 	height: 35vh;
 	/* border: 2px solid rgb(126, 129, 126); */
 	padding-top: 20vh;
-	padding-left: 30vh;
+	padding-left: 25vh;
 	padding-right: 20vh;
 	margin: 0px;
 	grid-row-start: 1;
@@ -311,4 +311,8 @@ i {
 	height: inherit;
 	width: inherit;
 
+}
+
+#wordSpotlight{
+	font-size: 23px;
 }
